@@ -1,0 +1,327 @@
+'Research', 5, '333445555', '22-MAY-78'
+'Administration', 4, '987654321', '01-JAN-85'
+'Headquarters', 1, '888665555', '19-JUN-71'
+'Software',6,'111111100','15-MAY-1999'
+'Hardware',7,'444444400','15-MAY-1998'
+'Sales',8,'555555500','01-JAN-1997'
+
+'333445555','Alice','F','05-APR-76','Daughter'
+'333445555','Theodore','M','25-OCT-73','Son'
+'333445555','Joy','F','03-MAY-48','Spouse'
+'987654321','Abner','M','29-FEB-32','Spouse'
+'123456789','Michael','M','01-JAN-78','Son'
+'123456789','Alice','F', '31-DEC-78','Daughter'
+'123456789','Elizabeth','F','05-MAY-57','Spouse'
+'444444400','Johnny','M','04-APR-1997','Son'
+'444444400','Tommy','M','07-JUN-1999','Son'
+'444444401','Chris','M','19-APR-1969','Spouse'
+'444444402','Sam','M','14-FEB-1964','Spouse'
+
+1,'Houston'
+4,'Stafford'
+5,'Bellaire'
+5,'Sugarland'
+5,'Houston'
+6,'Atlanta'
+6,'Sacramento'
+7,'Milwaukee'
+8,'Chicago'
+8,'Dallas'
+8,'Philadephia'
+8,'Seattle'
+8,'Miami'
+
+'James','E','Borg','888665555','10-NOV-27','450 Stone, Houston, TX','M',55000,null,1
+'Franklin','T','Wong','333445555','08-DEC-45','638 Voss, Houston, TX','M',40000,'888665555',5
+'Jennifer','S','Wallace','987654321','20-JUN-31','291 Berry, Bellaire, TX','F',43000,'888665555',4
+'Jared','D','James','111111100','10-OCT-1966','123 Peachtree, Atlanta, GA','M',85000,null,6
+'Alex','D','Freed','444444400','09-OCT-1950','4333 Pillsbury, Milwaukee, WI','M',89000,null,7
+'John','C','James','555555500','30-JUN-1975','7676 Bloomington, Sacramento, CA','M',81000,null,6
+'John','B','Smith','123456789','09-Jan-55','731 Fondren, Houston, TX','M',30000,'333445555',5
+'Alicia','J','Zelaya','999887777','19-JUL-58','3321 Castle, Spring, TX','F',25000,'987654321',4
+'Ramesh','K','Narayan','666884444','15-SEP-52','971 Fire Oak, Humble, TX','M',38000,'333445555',5
+'Joyce','A','English','453453453','31-JUL-62','5631 Rice Oak, Houston, TX','F',25000,'333445555',5
+'Ahmad','V','Jabbar','987987987','29-MAR-59','980 Dallas, Houston, TX','M',25000,'987654321',4
+'Jon','C','Jones','111111101','14-NOV-1967','111 Allgood, Atlanta, GA','M',45000,'111111100',6
+'Justin',null,'Mark','111111102','12-JAN-1966','2342 May, Atlanta, GA','M',40000,'111111100',6
+'Brad','C','Knight','111111103','13-FEB-1968','176 Main St., Atlanta, GA','M',44000,'111111100',6
+'Evan','E','Wallis','222222200','16-JAN-1958','134 Pelham, Milwaukee, WI','M',92000,null,7
+'Josh','U','Zell','222222201','22-MAY-1954','266 McGrady, Milwaukee, WI','M',56000,'222222200',7
+'Andy','C','Vile','222222202','21-JUN-1944','1967 Jordan, Milwaukee, WI','M',53000,'222222200',7
+'Tom','G','Brand','222222203','16-DEC-1966','112 Third St, Milwaukee, WI','M',62500,'222222200',7
+'Jenny','F','Vos','222222204','11-NOV-1967','263 Mayberry, Milwaukee, WI','F',61000,'222222201',7
+'Chris','A','Carter','222222205','21-MAR-1960','565 Jordan, Milwaukee, WI','F',43000,'222222201',7
+'Kim','C','Grace','333333300','23-OCT-1970','6677 Mills Ave, Sacramento, CA','F',79000,null,6
+'Jeff','H','Chase','333333301','07-JAN-1970','145 Bradbury, Sacramento, CA','M',44000,'333333300',6
+'Bonnie','S','Bays','444444401','19-JUN-1956','111 Hollow, Milwaukee, WI','F',70000,'444444400',7
+'Alec','C','Best','444444402','18-JUN-1966','233 Solid, Milwaukee, WI','M',60000,'444444400',7
+'Sam','S','Snedden','444444403','31-JUL-1977','987 Windy St, Milwaukee, WI','M',48000,'444444400',7
+'Nandita','K','Ball','555555501','16-APR-1969','222 Howard, Sacramento, CA','M',62000,'555555500',6
+'Bob','B','Bender','666666600','17-APR-1968','8794 Garfield, Chicago, IL','M',96000,null,8
+'Jill','J','Jarvis','666666601','14-JAN-1966','6234 Lincoln, Chicago, IL','F',36000,'666666600',8
+'Kate','W','King','666666602','16-APR-1966','1976 Boone Trace, Chicago, IL','F',44000,'666666600',8
+'Lyle','G','Leslie','666666603','09-JUN-1963','417 Hancock Ave, Chicago, IL','M',41000,'666666601',8
+'Billie','J','King','666666604','01-JAN-1960','556 Washington, Chicago, IL','F',38000,'666666603',8
+'Jon','A','Kramer','666666605','22-AUG-1964','1988 Windy Creek, Seattle, WA','M',41500,'666666603',8
+'Ray','H','King','666666606','16-AUG-1949','213 Delk Road, Seattle, WA','M',44500,'666666604',8
+'Gerald','D','Small','666666607','15-MAY-1962','122 Ball Street, Dallas, TX','M',29000,'666666602',8
+'Arnold','A','Head','666666608','19-MAY-1967','233 Spring St, Dallas, TX','M',33000,'666666602',8
+'Helga','C','Pataki','666666609','11-MAR-1969','101 Holyoke St, Dallas, TX','F',32000,'666666602',8
+'Naveen','B','Drew','666666610','23-MAY-1970','198 Elm St, Philadelphia, PA','M',34000,'666666607',8
+'Carl','E','Reedy','666666611','21-JUN-1977','213 Ball St, Philadelphia, PA','M',32000,'666666610',8
+'Sammy','G','Hall','666666612','11-JAN-1970','433 Main Street, Miami, FL','M',37000,'666666611',8
+'Red','A','Bacher','666666613','21-MAY-1980','196 Elm Street, Miami, FL','M',33500,'666666612',8
+
+'ProductX',1,'Bellaire',5
+'ProductY',2,'Sugarland',5
+'ProductZ',3,'Houston',5
+'Computerization',10,'Stafford',4
+'Reorganization',20,'Houston',1
+'Newbenefits',30,'Stafford',4
+'OperatingSystems',61,'Jacksonville',6
+'DatabaseSystems',62,'Birmingham',6
+'Middleware',63,'Jackson',6
+'InkjetPrinters',91,'Phoenix',7
+'LaserPrinters',92,'LasVegas',7
+
+'123456789',1, 32.5
+'123456789',2,  7.5
+'666884444',3, 40.0
+'453453453',1, 20.0
+'453453453',2, 20.0
+'333445555',2, 10.0
+'333445555',3, 10.0
+'333445555',10,10.0
+'333445555',20,10.0
+'999887777',30,30.0
+'999887777',10,10.0
+'987987987',10,35.0
+'987987987',30, 5.0
+'987654321',30,20.0
+'987654321',20,15.0
+'888665555',20,null
+'111111100',61,40.0
+'111111101',61,40.0
+'111111102',61,40.0
+'111111103',61,40.0
+'222222200',62,40.0
+'222222201',62,48.0
+'222222202',62,40.0
+'222222203',62,40.0
+'222222204',62,40.0
+'222222205',62,40.0
+'333333300',63,40.0
+'333333301',63,46.0
+'444444400',91,40.0
+'444444401',91,40.0
+'444444402',91,40.0
+'444444403',91,40.0
+'555555500',92,40.0
+'555555501',92,44.0
+'666666601',91,40.0
+'666666603',91,40.0
+'666666604',91,40.0
+'666666605',92,40.0
+'666666606',91,40.0
+'666666607',61,40.0
+'666666608',62,40.0
+'666666609',63,40.0
+'666666610',61,40.0
+'666666611',61,40.0
+'666666612',61,40.0
+'666666613',61,30.0
+'666666613',62,10.0
+'666666613',63,10.0
+
+'James','Borg'
+'Franklin','Wong'
+'Jared','James'
+'Alex','Freed'
+'John','James'
+'John','Smith'
+'Ramesh','Narayan'
+'Ahmad','Jabbar'
+'Jon','Jones'
+'Justin','Mark'
+'Brad','Knight'
+'Evan','Wallis'
+'Josh','Zell'
+'Andy','Vile'
+'Tom','Brand'
+'Jeff','Chase'
+'Alec','Best'
+'Sam','Snedden'
+'Nandita','Ball'
+'Bob','Bender'
+'Lyle','Leslie'
+'Jon','Kramer'
+'Ray','King'
+'Gerald','Small'
+'Arnold','Head'
+'Naveen','Drew'
+'Carl','Reedy'
+'Sammy','Hall'
+'Red','Bacher'
+
+'James'
+'Jared'
+'Alex'
+'John'
+'Evan'
+'Bob'
+
+'Franklin','James'
+'Jennifer','James'
+'John','Franklin'
+'Alicia','Jennifer'
+'Ramesh','Franklin'
+'Joyce','Franklin'
+'Ahmad','Jennifer'
+'Jon','Jared'
+'Justin','Jared'
+'Brad','Jared'
+'Josh','Evan'
+'Andy','Evan'
+'Tom','Evan'
+'Jenny','Josh'
+'Chris','Josh'
+'Jeff''Kim'
+'Bonnie','Alex'
+'Alec','Alex'
+'Sam','Alex'
+'Nandita','John'
+'Jill','Bob'
+'Kate','Bob'
+'Lyle','Jill'
+'Billie','Lyle'
+'Jon','Lyle'
+'Ray','Billie'
+'Gerald','Kate'
+'Arnold','Kate'
+'Helga','Kate'
+'Naveen','Gerald'
+'Carl','Naveen'
+'Sammy','Carl'
+'Red','Sammy'
+
+'John'
+'Ramesh'
+'Joyce'
+
+'Research', 'Bellaire'
+'Research', 'Sugarland'
+'Research', 'Houston'
+'Administration', 'Stafford'
+'Headquarters', 'Houston'
+'Software', 'Atlanta'
+'Software', 'Sacramento'
+'Hardware', 'Milwaukee'
+'Sales', 'Chicago'
+'Sales', 'Dallas'
+'Sales', 'Philadephia'
+'Sales', 'Seattle'
+'Sales', 'Miami'
+
+'Research'
+'Administration'
+'Software'
+'Sales'
+
+'Franklin','Wong','Alice'
+'Franklin','Wong','Theodore'
+'Franklin','Wong','Joy'
+'Jennifer','Wallace','Abner'
+'John','Smith','Michael'
+'John','Smith','Alice'
+'John','Smith','Elizabeth'
+'Alex','Freed','Johnny'
+'Alex','Freed','Tommy'
+'Bonnie','Bays','Chris'
+'Alec','Best','Sam'
+
+'James','E','Borg',55000
+'Jared','D','James',85000
+'Alex','D','Freed',89000
+'John','C','James',81000
+'Evan','E','Wallis',92000
+'Josh','U','Zell',56000
+'Andy','C','Vile',53000
+'Tom','G','Brand',62500
+'Jenny','F','Vos',61000
+'Kim','C','Grace',79000
+'Bonnie','S','Bays',70000
+'Alec','C','Best',60000
+'Nandita','K','Ball',62000
+'Bob','B','Bender',96000
+
+'ProductX','Research'
+'ProductY','Research'
+'ProductZ','Research'
+'Computerization','Administration'
+'Reorganization','Headquarters'
+'Newbenefits','Administration'
+'OperatingSystems','Software'
+'DatabaseSystems','Software'
+'Middleware','Software'
+'InkjetPrinters','Hardware'
+'LaserPrinters','Hardware'
+
+'OperatingSystems','Jared'
+'DatabaseSystems','Jared'
+'Middleware','Jared'
+'InkjetPrinters','Alex'
+'LaserPrinters','Alex'
+
+'ProductX','John'
+'ProductY','John'
+'ProductZ','Ramesh'
+'ProductX','Joyce'
+'ProductY','Joyce'
+'ProductY','Franklin'
+'ProductZ','Franklin'
+'Computerization','Franklin'
+'Reorganization','Franklin'
+'Computerization','Alicia'
+'Newbenefits','Alicia'
+'Computerization','Ahmad'
+'Newbenefits','Ahmad'
+'Reorganization','Jennifer'
+'Newbenefits','Jennifer'
+'Reorganization','James'
+'OperatingSystems','Jared'
+'OperatingSystems','Jon'
+'OperatingSystems','Justin'
+'OperatingSystems','Brad'
+'DatabaseSystems','Evan'
+'DatabaseSystems','Josh'
+'DatabaseSystems','Andy'
+'DatabaseSystems','Tom'
+'DatabaseSystems','Jenny'
+'DatabaseSystems','Chris'
+'Middleware','Kim'
+'Middleware','Jeff'
+'InkjetPrinters','Alex'
+'InkjetPrinters','Bonnie'
+'InkjetPrinters','Alec'
+'InkjetPrinters','Sam'
+'LaserPrinters','John'
+'LaserPrinters','Nandita'
+'InkjetPrinters','Jill'
+'InkjetPrinters','Lyle'
+'InkjetPrinters','Billie'
+'LaserPrinters','Jon'
+'InkjetPrinters','Ray'
+'OperatingSystems','Gerald'
+'DatabaseSystems','Arnold'
+'Middleware','Helga'
+'OperatingSystems','Naveen'
+'OperatingSystems','Carl'
+'OperatingSystems','Sammy'
+'OperatingSystems','Red'
+'DatabaseSystems','Red'
+'Middleware',Red'
+
+'Alex','Johnny','Son'
+'Alex','Tommy','Son'
+'Bonnie','Chris','Spouse'
+'Alec','Sam','Spouse'
